@@ -1,0 +1,14 @@
+h3{
+	color:red;
+}
+ol{
+	margin-left:-20px;
+	font-size:18px;
+}
+a{
+	text-decoration:none;
+	color:blue;
+}
+a:visited{
+	color:green;
+}
